@@ -1,0 +1,6 @@
+openai
+SpeechRecognition
+azure-cognitiveservices-speech
+azure-core
+sounddevice
+pyttsx3
